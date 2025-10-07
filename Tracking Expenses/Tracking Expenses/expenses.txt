@@ -1,0 +1,18 @@
+rent
+100
+movie
+500
+memory u
+2
+tight memory
+40
+mem
+1000
+income tax
+300
+groceries
+150
+streaming subscription
+13
+netflix
+5

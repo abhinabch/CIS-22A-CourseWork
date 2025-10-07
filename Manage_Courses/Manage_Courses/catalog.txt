@@ -1,0 +1,10 @@
+1 Computer Literacy
+2 Introduction to Computing
+3 Linux Essential I
+4 Computer Programming Lab
+5 Data Science
+6 Machine Learning
+7 Artificial Intelligence
+8 History
+9 Chemistry
+10 Physics
